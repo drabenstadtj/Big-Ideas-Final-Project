@@ -28,3 +28,4 @@ if is_point_within_polygon(lat, lon):
     print("The point is within the GeoJSON area.")
 else:
     print("The point is not within the GeoJSON area.")
+print()

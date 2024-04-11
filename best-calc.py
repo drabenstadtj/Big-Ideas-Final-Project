@@ -19,7 +19,7 @@ for neighborhood in neighborhoods:
     neighborhood['prt_stops_normalized'] = neighborhood['prt-stops'] / max_prt_stops
     neighborhood['bikelane_length_normalized'] = neighborhood['bikelane_length'] / max_bikelane_length
 
-# Assign weights (you can adjust these according to your preference)
+# Assign weights 
 weights = {
     'parks': .3,
     'prt_stops': .4,
@@ -35,7 +35,7 @@ for neighborhood in neighborhoods:
     )
 
 
-# Write composite scores to a JSON file
+# Write composite scores
 with open('composite_scores.json', 'w') as json_file:
     json.dump(neighborhoods, json_file, indent=4)
 

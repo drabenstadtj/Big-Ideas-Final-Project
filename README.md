@@ -22,4 +22,6 @@ In summary, the project involves data analysis, geospatial processing, and scori
 - [Parks](https://data.wprdc.org/dataset/parks1/resource/bb57d0a7-e8ee-4218-8906-0dedc903038c)
 - [Bus Stops](https://data.wprdc.org/dataset/prt-of-allegheny-county-transit-stops/resource/d6e6ed6e-9220-4a0e-9796-e72d83ce8e7a?inner_span=True)
 
-##### Repository Overview:
+#### Repository Overview:
+
+This repository contains geographic data processing scripts and a final project Python file, alongside associated datasets, for analyzing and evaluating neighborhood metrics.

@@ -34,7 +34,6 @@ for neighborhood in neighborhoods:
         weights['bikelane_length'] * neighborhood['bikelane_length_normalized']
     )
 
-print(neighborhoods)
 
 # Write composite scores to a JSON file
 with open('composite_scores.json', 'w') as json_file:
@@ -45,4 +44,3 @@ best_neighborhood = max(neighborhoods, key=lambda x: x['composite_score'])
 
 print("Best neighborhood:", best_neighborhood['name'])
 print("Composite score:", best_neighborhood['composite_score'])
-print(best_neighborhood)

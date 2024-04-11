@@ -1,0 +1,732 @@
+[
+    {
+        "name": "Beechview",
+        "parks": 8,
+        "prt-stops": 31,
+        "bikelane_length": 0,
+        "parks_normalized": 0.6666666666666666,
+        "prt_stops_normalized": 0.2980769230769231,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.3192307692307692
+    },
+    {
+        "name": "Crawford-Roberts",
+        "parks": 4,
+        "prt-stops": 30,
+        "bikelane_length": 0,
+        "parks_normalized": 0.3333333333333333,
+        "prt_stops_normalized": 0.28846153846153844,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.21538461538461537
+    },
+    {
+        "name": "North Shore",
+        "parks": 3,
+        "prt-stops": 36,
+        "bikelane_length": 0.001212309471175853,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.34615384615384615,
+        "bikelane_length_normalized": 0.016060309487253205,
+        "composite_score": 0.21827963130771444
+    },
+    {
+        "name": "Allegheny Center",
+        "parks": 2,
+        "prt-stops": 89,
+        "bikelane_length": 0.0025447255854942393,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.8557692307692307,
+        "bikelane_length_normalized": 0.0337117554839599,
+        "composite_score": 0.4024212189528803
+    },
+    {
+        "name": "Central Northside",
+        "parks": 3,
+        "prt-stops": 40,
+        "bikelane_length": 0.0019351872402514846,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.38461538461538464,
+        "bikelane_length_normalized": 0.02563677570222823,
+        "composite_score": 0.23653718655682232
+    },
+    {
+        "name": "East Liberty",
+        "parks": 12,
+        "prt-stops": 46,
+        "bikelane_length": 0.035735153194806586,
+        "parks_normalized": 1.0,
+        "prt_stops_normalized": 0.4423076923076923,
+        "bikelane_length_normalized": 0.4734085095667363,
+        "composite_score": 0.6189456297930978
+    },
+    {
+        "name": "Bedford Dwellings",
+        "parks": 1,
+        "prt-stops": 29,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.27884615384615385,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.13653846153846155
+    },
+    {
+        "name": "South Side Slopes",
+        "parks": 7,
+        "prt-stops": 35,
+        "bikelane_length": 0,
+        "parks_normalized": 0.5833333333333334,
+        "prt_stops_normalized": 0.33653846153846156,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.3096153846153846
+    },
+    {
+        "name": "South Side Flats",
+        "parks": 6,
+        "prt-stops": 28,
+        "bikelane_length": 0.018166080559672754,
+        "parks_normalized": 0.5,
+        "prt_stops_normalized": 0.2692307692307692,
+        "bikelane_length_normalized": 0.2406587450609777,
+        "composite_score": 0.32988993121060095
+    },
+    {
+        "name": "Lower Lawrenceville",
+        "parks": 3,
+        "prt-stops": 30,
+        "bikelane_length": 0.009889733700611088,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.28846153846153844,
+        "bikelane_length_normalized": 0.13101620316821924,
+        "composite_score": 0.22968947633508113
+    },
+    {
+        "name": "Banksville",
+        "parks": 2,
+        "prt-stops": 14,
+        "bikelane_length": 0,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.1346153846153846,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.10384615384615384
+    },
+    {
+        "name": "South Oakland",
+        "parks": 5,
+        "prt-stops": 58,
+        "bikelane_length": 0.0034951726114746673,
+        "parks_normalized": 0.4166666666666667,
+        "prt_stops_normalized": 0.5576923076923077,
+        "bikelane_length_normalized": 0.046302990437918995,
+        "composite_score": 0.36196782020829876
+    },
+    {
+        "name": "Homewood North",
+        "parks": 2,
+        "prt-stops": 104,
+        "bikelane_length": 0,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 1.0,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.45
+    },
+    {
+        "name": "Hazelwood",
+        "parks": 6,
+        "prt-stops": 19,
+        "bikelane_length": 0.004349979772739168,
+        "parks_normalized": 0.5,
+        "prt_stops_normalized": 0.18269230769230768,
+        "bikelane_length_normalized": 0.057627217368615674,
+        "composite_score": 0.24036508828750777
+    },
+    {
+        "name": "Bon Air",
+        "parks": 1,
+        "prt-stops": 78,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.75,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.32500000000000007
+    },
+    {
+        "name": "Central Oakland",
+        "parks": 4,
+        "prt-stops": 22,
+        "bikelane_length": 0.0032980566175980727,
+        "parks_normalized": 0.3333333333333333,
+        "prt_stops_normalized": 0.21153846153846154,
+        "bikelane_length_normalized": 0.04369165732387917,
+        "composite_score": 0.19772288181254838
+    },
+    {
+        "name": "Brighton Heights",
+        "parks": 4,
+        "prt-stops": 39,
+        "bikelane_length": 0,
+        "parks_normalized": 0.3333333333333333,
+        "prt_stops_normalized": 0.375,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.25
+    },
+    {
+        "name": "Brookline",
+        "parks": 3,
+        "prt-stops": 75,
+        "bikelane_length": 0,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.7211538461538461,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.3634615384615385
+    },
+    {
+        "name": "Spring Garden",
+        "parks": 2,
+        "prt-stops": 38,
+        "bikelane_length": 0,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.36538461538461536,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.19615384615384615
+    },
+    {
+        "name": "Lincoln-Lemington-Belmar",
+        "parks": 3,
+        "prt-stops": 35,
+        "bikelane_length": 6.2608546523164616e-06,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.33653846153846156,
+        "bikelane_length_normalized": 8.294191026436833e-05,
+        "composite_score": 0.20964026718846396
+    },
+    {
+        "name": "Windgap",
+        "parks": 1,
+        "prt-stops": 37,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.3557692307692308,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.16730769230769232
+    },
+    {
+        "name": "Troy Hill",
+        "parks": 5,
+        "prt-stops": 94,
+        "bikelane_length": 0.003614822250142383,
+        "parks_normalized": 0.4166666666666667,
+        "prt_stops_normalized": 0.9038461538461539,
+        "bikelane_length_normalized": 0.04788807269020703,
+        "composite_score": 0.5009048833455237
+    },
+    {
+        "name": "Westwood",
+        "parks": 3,
+        "prt-stops": 14,
+        "bikelane_length": 0,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.1346153846153846,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.12884615384615383
+    },
+    {
+        "name": "Perry South",
+        "parks": 2,
+        "prt-stops": 81,
+        "bikelane_length": 0.007707328171139343,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.7788461538461539,
+        "bikelane_length_normalized": 0.10210435428526626,
+        "composite_score": 0.3921697678240414
+    },
+    {
+        "name": "Central Business District",
+        "parks": 7,
+        "prt-stops": 69,
+        "bikelane_length": 0.006543530276059015,
+        "parks_normalized": 0.5833333333333334,
+        "prt_stops_normalized": 0.6634615384615384,
+        "bikelane_length_normalized": 0.08668671149684935,
+        "composite_score": 0.46639062883367016
+    },
+    {
+        "name": "Homewood West",
+        "parks": 1,
+        "prt-stops": 32,
+        "bikelane_length": 0.0008628245703560077,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.3076923076923077,
+        "bikelane_length_normalized": 0.011430439143301623,
+        "composite_score": 0.15150605481991355
+    },
+    {
+        "name": "Squirrel Hill South",
+        "parks": 7,
+        "prt-stops": 72,
+        "bikelane_length": 0.07548481379752006,
+        "parks_normalized": 0.5833333333333334,
+        "prt_stops_normalized": 0.6923076923076923,
+        "bikelane_length_normalized": 1.0,
+        "composite_score": 0.7519230769230769
+    },
+    {
+        "name": "Strip District",
+        "parks": 2,
+        "prt-stops": 11,
+        "bikelane_length": 5.534753730574804e-05,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.10576923076923077,
+        "bikelane_length_normalized": 0.0007332274469698222,
+        "composite_score": 0.09252766054178325
+    },
+    {
+        "name": "Arlington",
+        "parks": 1,
+        "prt-stops": 26,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.25,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.125
+    },
+    {
+        "name": "Stanton Heights",
+        "parks": 1,
+        "prt-stops": 29,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.27884615384615385,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.13653846153846155
+    },
+    {
+        "name": "Crafton Heights",
+        "parks": 2,
+        "prt-stops": 25,
+        "bikelane_length": 0,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.2403846153846154,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.14615384615384616
+    },
+    {
+        "name": "Upper Lawrenceville",
+        "parks": 3,
+        "prt-stops": 3,
+        "bikelane_length": 0,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.028846153846153848,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.08653846153846154
+    },
+    {
+        "name": "East Carnegie",
+        "parks": 1,
+        "prt-stops": 96,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.9230769230769231,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.3942307692307693
+    },
+    {
+        "name": "East Hills",
+        "parks": 1,
+        "prt-stops": 45,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.4326923076923077,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.1980769230769231
+    },
+    {
+        "name": "Point Breeze",
+        "parks": 7,
+        "prt-stops": 22,
+        "bikelane_length": 0.03522276559359628,
+        "parks_normalized": 0.5833333333333334,
+        "prt_stops_normalized": 0.21153846153846154,
+        "bikelane_length_normalized": 0.466620553480831,
+        "composite_score": 0.39960155065963393
+    },
+    {
+        "name": "Allentown",
+        "parks": 2,
+        "prt-stops": 33,
+        "bikelane_length": 0,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.3173076923076923,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.1769230769230769
+    },
+    {
+        "name": "Duquesne Heights",
+        "parks": 2,
+        "prt-stops": 39,
+        "bikelane_length": 0,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.375,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.2
+    },
+    {
+        "name": "Mount Washington",
+        "parks": 6,
+        "prt-stops": 17,
+        "bikelane_length": 0,
+        "parks_normalized": 0.5,
+        "prt_stops_normalized": 0.16346153846153846,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.2153846153846154
+    },
+    {
+        "name": "Esplen",
+        "parks": 1,
+        "prt-stops": 11,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.10576923076923077,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.0673076923076923
+    },
+    {
+        "name": "Fairywood",
+        "parks": 1,
+        "prt-stops": 30,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.28846153846153844,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.14038461538461539
+    },
+    {
+        "name": "Fineview",
+        "parks": 2,
+        "prt-stops": 21,
+        "bikelane_length": 0,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.20192307692307693,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.13076923076923078
+    },
+    {
+        "name": "Garfield",
+        "parks": 3,
+        "prt-stops": 11,
+        "bikelane_length": 0,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.10576923076923077,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.11730769230769231
+    },
+    {
+        "name": "Greenfield",
+        "parks": 2,
+        "prt-stops": 20,
+        "bikelane_length": 0.00171020905686016,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.19230769230769232,
+        "bikelane_length_normalized": 0.0226563327220706,
+        "composite_score": 0.1337199767396981
+    },
+    {
+        "name": "Larimer",
+        "parks": 3,
+        "prt-stops": 31,
+        "bikelane_length": 0.0067058315018635635,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.2980769230769231,
+        "bikelane_length_normalized": 0.08883682908526792,
+        "composite_score": 0.22088181795634962
+    },
+    {
+        "name": "Bloomfield",
+        "parks": 3,
+        "prt-stops": 64,
+        "bikelane_length": 0.03672319759653197,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.6153846153846154,
+        "bikelane_length_normalized": 0.48649782319180146,
+        "composite_score": 0.4671031931113866
+    },
+    {
+        "name": "Perry North",
+        "parks": 2,
+        "prt-stops": 78,
+        "bikelane_length": 0.04345489947612624,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.75,
+        "bikelane_length_normalized": 0.5756773752226423,
+        "composite_score": 0.5227032125667928
+    },
+    {
+        "name": "North Oakland",
+        "parks": 1,
+        "prt-stops": 18,
+        "bikelane_length": 0.022668594194081407,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.17307692307692307,
+        "bikelane_length_normalized": 0.30030668492986534,
+        "composite_score": 0.18432277470972883
+    },
+    {
+        "name": "Hays",
+        "parks": 1,
+        "prt-stops": 42,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.40384615384615385,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.18653846153846154
+    },
+    {
+        "name": "Elliott",
+        "parks": 4,
+        "prt-stops": 37,
+        "bikelane_length": 0,
+        "parks_normalized": 0.3333333333333333,
+        "prt_stops_normalized": 0.3557692307692308,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.24230769230769234
+    },
+    {
+        "name": "Highland Park",
+        "parks": 2,
+        "prt-stops": 13,
+        "bikelane_length": 0.03809173993509229,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.125,
+        "bikelane_length_normalized": 0.5046278584891168,
+        "composite_score": 0.25138835754673505
+    },
+    {
+        "name": "Homewood South",
+        "parks": 1,
+        "prt-stops": 28,
+        "bikelane_length": 8.88518869220397e-05,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.2692307692307692,
+        "bikelane_length_normalized": 0.0011770829449268482,
+        "composite_score": 0.13304543257578574
+    },
+    {
+        "name": "Morningside",
+        "parks": 1,
+        "prt-stops": 25,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.2403846153846154,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.12115384615384615
+    },
+    {
+        "name": "Terrace Village",
+        "parks": 2,
+        "prt-stops": 6,
+        "bikelane_length": 0,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.057692307692307696,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.07307692307692307
+    },
+    {
+        "name": "Spring Hill-City View",
+        "parks": 3,
+        "prt-stops": 33,
+        "bikelane_length": 0.011402884761498974,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.3173076923076923,
+        "bikelane_length_normalized": 0.1510619711149582,
+        "composite_score": 0.24724166825756438
+    },
+    {
+        "name": "Carrick",
+        "parks": 3,
+        "prt-stops": 34,
+        "bikelane_length": 0,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.3269230769230769,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.20576923076923076
+    },
+    {
+        "name": "Central Lawrenceville",
+        "parks": 1,
+        "prt-stops": 21,
+        "bikelane_length": 0.005991246494671771,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.20192307692307693,
+        "bikelane_length_normalized": 0.07937022287347292,
+        "composite_score": 0.12958029763127266
+    },
+    {
+        "name": "Lincoln Place",
+        "parks": 2,
+        "prt-stops": 36,
+        "bikelane_length": 0,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.34615384615384615,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.18846153846153846
+    },
+    {
+        "name": "Manchester",
+        "parks": 3,
+        "prt-stops": 49,
+        "bikelane_length": 0,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.47115384615384615,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.26346153846153847
+    },
+    {
+        "name": "Marshall-Shadeland",
+        "parks": 4,
+        "prt-stops": 59,
+        "bikelane_length": 0.011642110939876531,
+        "parks_normalized": 0.3333333333333333,
+        "prt_stops_normalized": 0.5673076923076923,
+        "bikelane_length_normalized": 0.1542311672266325,
+        "composite_score": 0.3731924270910667
+    },
+    {
+        "name": "Sheraden",
+        "parks": 6,
+        "prt-stops": 13,
+        "bikelane_length": 0,
+        "parks_normalized": 0.5,
+        "prt_stops_normalized": 0.125,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.2
+    },
+    {
+        "name": "Beltzhoover",
+        "parks": 3,
+        "prt-stops": 29,
+        "bikelane_length": 0,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.27884615384615385,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.18653846153846154
+    },
+    {
+        "name": "Point Breeze North",
+        "parks": 3,
+        "prt-stops": 23,
+        "bikelane_length": 0.013757186493928368,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.22115384615384615,
+        "bikelane_length_normalized": 0.18225104894383853,
+        "composite_score": 0.21813685314469003
+    },
+    {
+        "name": "Oakwood",
+        "parks": 1,
+        "prt-stops": 11,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.10576923076923077,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.0673076923076923
+    },
+    {
+        "name": "Polish Hill",
+        "parks": 2,
+        "prt-stops": 7,
+        "bikelane_length": 0.002997157258515821,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.0673076923076923,
+        "bikelane_length_normalized": 0.03970543355323595,
+        "composite_score": 0.08883470698904772
+    },
+    {
+        "name": "Regent Square",
+        "parks": 1,
+        "prt-stops": 44,
+        "bikelane_length": 0.0026281259586915895,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.4230769230769231,
+        "bikelane_length_normalized": 0.03481661842263076,
+        "composite_score": 0.20467575475755845
+    },
+    {
+        "name": "Upper Hill",
+        "parks": 1,
+        "prt-stops": 50,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.4807692307692308,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.2173076923076923
+    },
+    {
+        "name": "New Homestead",
+        "parks": 1,
+        "prt-stops": 17,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.16346153846153846,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.09038461538461538
+    },
+    {
+        "name": "West Oakland",
+        "parks": 1,
+        "prt-stops": 15,
+        "bikelane_length": 0.0006893955661072995,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.14423076923076922,
+        "bikelane_length_normalized": 0.00913290410911696,
+        "composite_score": 0.08543217892504278
+    },
+    {
+        "name": "Swisshelm Park",
+        "parks": 3,
+        "prt-stops": 3,
+        "bikelane_length": 0,
+        "parks_normalized": 0.25,
+        "prt_stops_normalized": 0.028846153846153848,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.08653846153846154
+    },
+    {
+        "name": "Bluff",
+        "parks": 1,
+        "prt-stops": 96,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.9230769230769231,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.3942307692307693
+    },
+    {
+        "name": "Middle Hill",
+        "parks": 1,
+        "prt-stops": 25,
+        "bikelane_length": 0,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.2403846153846154,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.12115384615384615
+    },
+    {
+        "name": "West End",
+        "parks": 2,
+        "prt-stops": 3,
+        "bikelane_length": 0,
+        "parks_normalized": 0.16666666666666666,
+        "prt_stops_normalized": 0.028846153846153848,
+        "bikelane_length_normalized": 0.0,
+        "composite_score": 0.061538461538461535
+    },
+    {
+        "name": "Squirrel Hill North",
+        "parks": 1,
+        "prt-stops": 9,
+        "bikelane_length": 0.028437249491557744,
+        "parks_normalized": 0.08333333333333333,
+        "prt_stops_normalized": 0.08653846153846154,
+        "bikelane_length_normalized": 0.37672808689490345,
+        "composite_score": 0.17263381068385564
+    }
+]

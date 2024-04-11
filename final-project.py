@@ -87,8 +87,6 @@ with open('data/2019-bike-lanes.geojson') as f:
 # Initialize a dictionary to store lane lengths
 bikelane_lengths = {hood_name: 0.0 for hood_name in hoods}
 
-
-
 # Iterate over each bike lane feature
 for feature in bikelanes_data['features']:
     bikelane_geometry = shape(feature['geometry'])

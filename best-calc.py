@@ -2,7 +2,7 @@ import json
 import numpy as np
 
 # Read JSON data from file
-with open('neighborhoods-count.json', 'r') as file:
+with open('processed data/neighborhoods-count.json', 'r') as file:
     neighborhoods_data = json.load(file)
 
 neighborhoods = neighborhoods_data['neighborhoods']
@@ -21,9 +21,9 @@ for neighborhood in neighborhoods:
 
 # Assign weights (you can adjust these according to your preference)
 weights = {
-    'parks': 1.0,
-    'prt_stops': 1.0,
-    'bikelane_length': 1.0
+    'parks': .3,
+    'prt_stops': .4,
+    'bikelane_length': 0.3
 }
 
 # Calculate composite score
@@ -34,6 +34,8 @@ for neighborhood in neighborhoods:
         weights['bikelane_length'] * neighborhood['bikelane_length_normalized']
     )
 
+print(neighborhoods)
+
 # Write composite scores to a JSON file
 with open('composite_scores.json', 'w') as json_file:
     json.dump(neighborhoods, json_file, indent=4)
@@ -43,3 +45,4 @@ best_neighborhood = max(neighborhoods, key=lambda x: x['composite_score'])
 
 print("Best neighborhood:", best_neighborhood['name'])
 print("Composite score:", best_neighborhood['composite_score'])
+print(best_neighborhood)

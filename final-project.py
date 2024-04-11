@@ -1,6 +1,6 @@
 import json
 import geojson
-from shapely.geometry import shape, Point, MultiLineString
+from shapely.geometry import shape, Point
 
 # Load GeoJSON data for neighborhoods
 with open('neighborhoods.geojson') as f:

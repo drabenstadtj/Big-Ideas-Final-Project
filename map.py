@@ -42,15 +42,15 @@ for index, row in df.iterrows():
     # Add a marker for each park
     folium.Marker(location=[lat, lon], tooltip=row['name']).add_to(m)
 
-# Load the CSV file
-df = pd.read_csv('data\prt-stops.csv')
+# # Load the CSV file
+# df = pd.read_csv('data\prt-stops.csv')
 
-# Iterate through each row in the dataframe
-for index, row in df.iterrows():
-    # Extract latitude and longitude
-    lat, lon = row['latitude'], row['longitude']
-    # Customize marker size and color
-    folium.Circle(location=[lat, lon], radius=1, color='grey', fill_color='red', fill_opacity=0.7).add_to(m)
+# # Iterate through each row in the dataframe
+# for index, row in df.iterrows():
+#     # Extract latitude and longitude
+#     lat, lon = row['latitude'], row['longitude']
+#     # Customize marker size and color
+#     folium.Circle(location=[lat, lon], radius=1, color='grey', fill_color='red', fill_opacity=0.7).add_to(m)
 
 # Add Layer Control to toggle between layers
 folium.LayerControl().add_to(m)

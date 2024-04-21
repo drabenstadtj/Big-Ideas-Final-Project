@@ -1,6 +1,6 @@
 ## Final Project
 
-### Team name: Small Ideas
+### Team name: Small Ideas (Group 14)
 
 ### Members:
 
